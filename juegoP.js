@@ -118,7 +118,7 @@ audio.play();
 function anunciarGanador(pokemonGanador){
   swal.fire({title: "¡Felicidades!",
   text: "El ganador del combate es " + pokemonGanador.nombre + "!",
-  imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT68zHnPnghW9Pdi6gmwznXwyqtMCr_3mdncUQzPff1kw&s",
+  imageUrl: "https://www.pngmart.com/files/2/Pikachu-PNG-Picture.png",
   buttons: {
     confirm: {
       text: "OK",
